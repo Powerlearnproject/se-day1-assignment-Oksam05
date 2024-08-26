@@ -9,7 +9,7 @@ Software engineering is a discipline that systematically applies engineering pri
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
-1. The development of programming languages (e.g., Fortran, C),
+1. The development of programming languages (e.g., Fortran, C).
 2. The establishment of software engineering as a discipline in the 1960s.
 3. The advent of structured programming in the 1970s.
 
@@ -30,7 +30,7 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 
 Waterfall: Sequential approach with distinct phases (e.g., requirements, design,
 implementation) flowing downwards like a waterfall.
-- Agile: Iterative and incremental approach focused on flexibility, collaboration, and
+Agile: Iterative and incremental approach focused on flexibility, collaboration, and
 responding to change.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
@@ -38,7 +38,7 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 1. Software Developer: Responsible for writing code and implementing software solutions.
 2. Quality Assurance Engineer: Ensures software quality by designing and executing test
 plans.
-3. - Project Manager: Oversees the planning, execution, and delivery of software projects.
+3. Project Manager: Oversees the planning, execution, and delivery of software projects.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
